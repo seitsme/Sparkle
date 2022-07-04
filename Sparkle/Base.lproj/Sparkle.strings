@@ -11,7 +11,7 @@
 "%1$@ %2$@ is available but your macOS version is too old to install it. At least macOS %3$@ is required." = "%1$@ %2$@ is available but your macOS version is too old to install it. At least macOS %3$@ is required.";
 
 /* No comment provided by engineer. */
-"%1$@ can’t be updated if it’s running from the location it was downloaded to." = "%1$@ can’t be updated if it’s running from the location it was downloaded to.";
+"%1$@ can’t be updated if it’s running from the location it was downloaded to." = "%1$@ δε θα ενημερωθεί διότι το Keka τρέχει από την τοποθεσία (πχ φάκελο) στον οποίο αρχικά κατέβηκε. Μεταφέρετε το Keka σε ένα άλλο πχ. φάκελο, επανεκκινήστε και ενημερώστε το από εκεί. Μετακινήστε το ξανά στην παλαιά τοποθεσία και θα ενημερώνεται κανονικά.";
 
 /* No comment provided by engineer. */
 "%1$@ can’t be updated, because it was opened from a read-only or a temporary location." = "%1$@ can’t be updated, because it was opened from a read-only or a temporary location.";
